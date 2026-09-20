@@ -1,0 +1,11 @@
+{
+  "project": "home-upgrade-calculator",
+  "version": "2026.09.20.5",
+  "updated": "2026-09-20",
+  "service": "https://razya.synology.me/home-upgrade-calculator/",
+  "context": "https://raw.githubusercontent.com/desong-alt/home_upgrade/main/ai-context/ai-context.md",
+  "context_mirror": "https://razya.synology.me/home-upgrade-calculator/ai-context.md",
+  "context_text": "https://razya.synology.me/home-upgrade-calculator/ai-context.txt",
+  "changelog": "https://raw.githubusercontent.com/desong-alt/home_upgrade/main/ai-context/changelog.md",
+  "github_repository": "https://github.com/desong-alt/home_upgrade"
+}
