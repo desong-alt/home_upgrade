@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/desong-alt/home_upgrade/main/ai-context/change
 - 목적: 위례중앙푸르지오를 매도하고 다음 주택을 매수할 때 초기 필요자금, 세금 납부 계획, 부모별 대출과 DSR, 월 납부 부담을 한 화면에서 시뮬레이션한다.
 - 실제 서비스: <https://razya.synology.me/home-upgrade-calculator/>
 - 텍스트 호환 주소: <https://razya.synology.me/home-upgrade-calculator/ai-context.txt>
-- 현재 버전: 2026.09.20.5
+- 현재 버전: 2026.09.20.6
 - 최근 수정일: 2026-09-20
 - 배포 상태: 운영 중
 

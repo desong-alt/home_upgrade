@@ -18,4 +18,5 @@
 - 인테리어비 초기 비용·카드 분할 선택과 5~12개월 카드 납부 기간별 월 부담 표시 추가
 - GitHub Raw AI Context 동기화 스크립트와 배포 후 비차단 동기화 연결 추가
 - GitHub desong-alt/home_upgrade Raw AI Context 동기화와 Canonical URL 연결
+- GitHub Raw AI Context 첫 동기화 완료 및 배포 후 자동 push 검증
 
