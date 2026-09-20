@@ -19,4 +19,5 @@
 - GitHub Raw AI Context 동기화 스크립트와 배포 후 비차단 동기화 연결 추가
 - GitHub desong-alt/home_upgrade Raw AI Context 동기화와 Canonical URL 연결
 - GitHub Raw AI Context 첫 동기화 완료 및 배포 후 자동 push 검증
+- GitHub Raw CDN 캐시 지연을 커밋 SHA 기준 검증으로 보완
 

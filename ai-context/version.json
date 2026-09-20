@@ -1,6 +1,6 @@
 {
   "project": "home-upgrade-calculator",
-  "version": "2026.09.20.6",
+  "version": "2026.09.20.7",
   "updated": "2026-09-20",
   "service": "https://razya.synology.me/home-upgrade-calculator/",
   "context": "https://raw.githubusercontent.com/desong-alt/home_upgrade/main/ai-context/ai-context.md",
